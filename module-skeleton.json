@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-procurement-flutter",
+  "capabilityKey": "liberusoftware/module-maintenance-procurement",
+  "presentation": "mobile-flutter",
+  "package": "module_maintenance_procurement_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/maintenance/nextjs/procurement.md",
+  "presentationPlan": "projects/maintenance/flutter/procurement.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
